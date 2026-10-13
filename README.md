@@ -3,9 +3,11 @@
 Gyro aiming and gamepad at the same time. No stuttering as before. Gyro moves the camera like a real mouse
 (linear, no stick curve), and the game keeps showing gamepad buttons.
 
-> **Offline only. The game must run with Easy Anti-Cheat OFF.**
-> With EAC on, the mod does not load. Online play and PvP need EAC, so use this
-> for campaign and offline PvE only.
+> **Offline only. Do not use it in multiplayer.**
+> The game has Easy Anti-Cheat (EAC). The mod works only with EAC off, so use it for
+> the campaign and offline PvE only. Never try to play online or PvP with the mod;
+> mods in an anti-cheat protected game can get your account banned.
+> Uninstall the mod and clear the launch option before playing online.
 
 ## What it does
 
